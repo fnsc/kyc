@@ -1,0 +1,180 @@
+{
+    "customer_id": 1,
+    "name": "Liam Smith",
+    "email": "liam.smith@example.com",
+    "phone_number": "+11234567890",
+    "date_of_birth": "1985-07-14",
+    "address": "123 Maple Street, Somecity, CA, 90001",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 2,
+    "name": "Olivia Johnson",
+    "email": "olivia.johnson@example.com",
+    "phone_number": "+11234567891",
+    "date_of_birth": "1992-03-21",
+    "address": "456 Oak Avenue, Somecity, CA, 90002",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 3,
+    "name": "Noah Williams",
+    "email": "noah.williams@example.com",
+    "phone_number": "+11234567892",
+    "date_of_birth": "1988-11-09",
+    "address": "789 Pine Road, Somecity, CA, 90003",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 4,
+    "name": "Emma Brown",
+    "email": "emma.brown@example.com",
+    "phone_number": "+11234567893",
+    "date_of_birth": "1995-06-30",
+    "address": "321 Birch Lane, Somecity, CA, 90004",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 5,
+    "name": "Aiden Jones",
+    "email": "aiden.jones@example.com",
+    "phone_number": "+11234567894",
+    "date_of_birth": "1982-10-22",
+    "address": "654 Cedar Street, Somecity, CA, 90005",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 6,
+    "name": "Sophia Garcia",
+    "email": "sophia.garcia@example.com",
+    "phone_number": "+11234567895",
+    "date_of_birth": "1990-12-19",
+    "address": "987 Spruce Drive, Somecity, CA, 90006",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 7,
+    "name": "Jackson Martinez",
+    "email": "jackson.martinez@example.com",
+    "phone_number": "+11234567896",
+    "date_of_birth": "1987-04-17",
+    "address": "135 Elm Street, Somecity, CA, 90007",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 8,
+    "name": "Isabella Hernandez",
+    "email": "isabella.hernandez@example.com",
+    "phone_number": "+11234567897",
+    "date_of_birth": "1993-09-06",
+    "address": "246 Fir Avenue, Somecity, CA, 90008",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 9,
+    "name": "Ethan Lopez",
+    "email": "ethan.lopez@example.com",
+    "phone_number": "+11234567898",
+    "date_of_birth": "1986-01-12",
+    "address": "357 Pine Lane, Somecity, CA, 90009",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 10,
+    "name": "Mia Wilson",
+    "email": "mia.wilson@example.com",
+    "phone_number": "+11234567899",
+    "date_of_birth": "1991-05-29",
+    "address": "468 Oak Drive, Somecity, CA, 90010",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 11,
+    "name": "Lucas Anderson",
+    "email": "lucas.anderson@example.com",
+    "phone_number": "+11234567900",
+    "date_of_birth": "1983-08-14",
+    "address": "579 Maple Street, Somecity, CA, 90011",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 12,
+    "name": "Ava Thomas",
+    "email": "ava.thomas@example.com",
+    "phone_number": "+11234567901",
+    "date_of_birth": "1994-07-22",
+    "address": "680 Birch Lane, Somecity, CA, 90012",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 13,
+    "name": "Mason Taylor",
+    "email": "mason.taylor@example.com",
+    "phone_number": "+11234567902",
+    "date_of_birth": "1989-02-11",
+    "address": "791 Cedar Road, Somecity, CA, 90013",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 14,
+    "name": "Mia White",
+    "email": "mia.white@example.com",
+    "phone_number": "+11234567903",
+    "date_of_birth": "1992-09-04",
+    "address": "902 Spruce Street, Somecity, CA, 90014",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 15,
+    "name": "James Harris",
+    "email": "james.harris@example.com",
+    "phone_number": "+11234567904",
+    "date_of_birth": "1984-11-20",
+    "address": "123 Oak Lane, Somecity, CA, 90015",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 16,
+    "name": "Charlotte Clark",
+    "email": "charlotte.clark@example.com",
+    "phone_number": "+11234567905",
+    "date_of_birth": "1991-03-12",
+    "address": "234 Maple Drive, Somecity, CA, 90016",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 17,
+    "name": "Benjamin Lewis",
+    "email": "benjamin.lewis@example.com",
+    "phone_number": "+11234567906",
+    "date_of_birth": "1987-12-30",
+    "address": "345 Birch Street, Somecity, CA, 90017",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 18,
+    "name": "Amelia Walker",
+    "email": "amelia.walker@example.com",
+    "phone_number": "+11234567907",
+    "date_of_birth": "1993-04-08",
+    "address": "456 Cedar Lane, Somecity, CA, 90018",
+    "identity_document": "drivers_license"
+},
+{
+    "customer_id": 19,
+    "name": "Alexander Young",
+    "email": "alexander.young@example.com",
+    "phone_number": "+11234567908",
+    "date_of_birth": "1985-10-17",
+    "address": "567 Spruce Road, Somecity, CA, 90019",
+    "identity_document": "passport"
+},
+{
+    "customer_id": 20,
+    "name": "Harper King",
+    "email": "harper.king@example.com",
+    "phone_number": "+11234567909",
+    "date_of_birth": "1990-06-23",
+    "address": "678 Oak Avenue, Somecity, CA, 90020",
+    "identity_document": "drivers_license"
+}
